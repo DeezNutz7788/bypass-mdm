@@ -1,5 +1,4 @@
 # 🚀 macOS MDM Bypass
-![mdm-screen](https://raw.githubusercontent.com/assafdori/bypass-mdm/main/mdm-screen.png)
 
 A comprehensive guide to bypass MDM and reinstall macOS on a MacBook/iMac. Follow the steps below to ensure a successful setup.
 
