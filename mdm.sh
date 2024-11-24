@@ -5,9 +5,7 @@ credit() {
     do
        echo ""
     done
-    echo "============================================="
-    echo "             MDM Tools by Tahaa              "
-    echo "============================================="
+    echo "============= MDM Tools by Tahaa =============="
 }
 
 show_menu() {
