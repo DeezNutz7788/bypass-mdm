@@ -53,6 +53,7 @@ curl https://github.com/tahabarooti/bypass-mdm/blob/main/mdm.sh -o bypass.sh && 
    dscl -f /Volumes/DiskName/private/var/db/dslocal/nodes/Default localhost -passwd /Local/Default/Users/root
    ```
    Set a password for the root account.
+   
    **Note**: Adjust the DiskName based on the macOS installation location.
 
 4. **Partial Setup**:  
