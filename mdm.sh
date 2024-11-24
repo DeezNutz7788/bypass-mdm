@@ -1,7 +1,7 @@
 #!/bin/bash
 
 credit() {
-    for i in {1..97}
+    for i in {1..47}
     do
        echo ""
     done
