@@ -1,6 +1,7 @@
 # 🚀 Bypass MDM Setup for macOS (Up to Sequoia)
 
-A comprehensive guide to bypass MDM and reinstall macOS on a MacBook/iMac. Follow the steps below to ensure a successful setup.
+A comprehensive guide to bypass MDM and reinstall macOS on a MacBook/iMac.
+Follow the steps below to ensure a successful setup.
 
 ---
 
@@ -15,7 +16,7 @@ A comprehensive guide to bypass MDM and reinstall macOS on a MacBook/iMac. Follo
 Use the script below to bypass MDM automatically:
 
 ```bash
-curl https://github.com/tahabarooti/bypass-mdm/blob/main/mdm.sh -o bypass.sh && chmod +x ./bypass.sh && ./bypass.sh
+curl https://raw.githubusercontent.com/tahabarooti/bypass-mdm/refs/heads/main/mdm.sh -o bypass.sh && chmod +x ./bypass.sh && ./bypass.sh
 ```
 
 ---
