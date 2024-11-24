@@ -1,4 +1,4 @@
-# 🚀 macOS MDM Bypass
+# 🚀 Bypass MDM Setup for macOS (Up to Sequoia)
 
 A comprehensive guide to bypass MDM and reinstall macOS on a MacBook/iMac. Follow the steps below to ensure a successful setup.
 
